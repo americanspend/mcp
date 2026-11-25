@@ -1,11 +1,13 @@
 # American Spend MCP server
 
+[![American Spend MCP connector](https://glama.ai/mcp/connectors/com.americanspend/insights/badges/score.svg)](https://glama.ai/mcp/connectors/com.americanspend/insights)
+
 The American Spend MCP serves the Spend Graph, a model of daily US consumer spending that people and agents can query directly. Ask Claude, ChatGPT, Cursor or any MCP client how a brand is doing, where its customers also shop, or how spending is moving by category, state or metro, and it answers from the American Spend model.
 
 This repository is the public home of the server's listing. The server is hosted by American Spend; there is nothing to install or run.
 
 **Server URL:** `https://platform.americanspend.com/mcp`
-**Registry name:** `com.americanspend/insights` ([MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.americanspend))
+**Registry name:** `com.americanspend/insights` ([MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=com.americanspend), [Glama](https://glama.ai/mcp/connectors/com.americanspend/insights))
 
 ## Connect
 
